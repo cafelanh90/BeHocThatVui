@@ -1,6 +1,7 @@
 // NHÀ BÉ HỌC — sửa sản phẩm trong mảng PRODUCTS.
 // price10 là giá 10 trang (VND); giá 20 trang tự động gấp đôi.
-const IMAGE_URL="https://i.pinimg.com/736x/6f/64/3f/6f643f1a861d012647f1461ffd38d6a5.jpg";
+//const IMAGE_URL="https://i.pinimg.com/736x/6f/64/3f/6f643f1a861d012647f1461ffd38d6a5.jpg";
+const image:"1ea094d088b4fb72d15c7c9df6d0d9fc.jpg"
 const GOOGLE_SCRIPT_URL=""; // Dán URL Apps Script /exec để gửi đơn vào Google Sheets.
 const THEMES=["Con Vật","Công Chúa","Bánh Kẹo","Kem","Phương tiện giao thông"];
 const PRODUCTS=[
